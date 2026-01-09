@@ -1,7 +1,7 @@
 Tugas ini untuk memenuhi Project UAS
-Nama    : Varel Nico Ramadhan
-Nim     : 312510156
-Kelas   : TI.25.A.2
+## Nama    : Varel Nico Ramadhan
+## Nim     : 312510156
+## Kelas   : TI.25.A.2
 
 ## Program Manajemen Nilai Mahasiswa (OOP & Modular Programming)
 
